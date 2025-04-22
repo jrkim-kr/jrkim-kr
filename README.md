@@ -34,7 +34,7 @@
 ## Projects
 
 ### 🍽️ ReciPICK - 스프링 활용 레시피 기반 식재료 쇼핑몰 (5인 팀 프로젝트 / 팀장)
-[https://github.com/SHDS-ReciPICK/recipick](https://github.com/SHDS-ReciPICK/shds-recipick.github.io)
+https://github.com/SHDS-ReciPICK/shds-recipick.github.io
 
 ### 🌱 SOL Pick - 스프링 부트 활용 스마트한 식생활 관리 서비스 (4인 팀 프로젝트 / 팀장)
 https://github.com/SHDS-SOLPick/shds-solpick.github.io
