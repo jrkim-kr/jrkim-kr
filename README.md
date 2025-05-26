@@ -2,7 +2,7 @@
 
 ## Introduction
 비록 작은 빛일지라도, 어둠 속에서 그 의미는 크다고 믿습니다. 
-끊임없는 배움의 여정 속에서 깊이 사고하고, 창의적으로 발상하며, 누군가의 하루를 밝히는 웹 서비스를 만드는 개발자가 되고자 합니다.
+끊임없는 배움의 여정 속에서 깊이 사고하고, 창의적으로 발상하며, 누군가의 하루를 밝히는 웹 서비스를 만드는 개발자를 지향합니다.
 
 ## Tech Stack
 ### Programming Languages
@@ -40,7 +40,8 @@ https://github.com/SHDS-ReciPICK/shds-recipick.github.io
 https://github.com/SHDS-SOLPick/shds-solpick.github.io
 
 ## Currently Learning
-- React, Spring Boot
+- React
+- Spring Boot
 
 ## Contact
 - **Email**: jeongrankim99@gmail.com
