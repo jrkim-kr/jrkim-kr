@@ -40,11 +40,11 @@ https://github.com/SHDS-ReciPICK/shds-recipick.github.io
 https://github.com/SHDS-SOLPick/shds-solpick.github.io
 
 ## Currently Learning
-- React
-- Spring Boot
+- Vibe Coding
 
 ## Contact
 - **Email**: jeongrankim99@gmail.com
+- **velog**: https://velog.io/@jrkim99/posts
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrkim-kr&show_icons=true&theme=radical)
