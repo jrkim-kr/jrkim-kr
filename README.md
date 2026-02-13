@@ -1,54 +1,129 @@
 # Jeongran Kim
 
-## Introduction
-비록 작은 빛일지라도, 어둠 속에서 그 의미는 크다고 믿습니다. 
-끊임없는 배움의 여정 속에서 깊이 사고하고, 창의적으로 발상하며, 누군가의 하루를 밝히는 웹 서비스를 만드는 개발자를 지향합니다.
+**AI Automation PM | Forward Deployed Engineer | AI Systems & Delivery Lead**
 
-## Tech Stack
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## What I Do
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
+I lead and build AI-powered automation systems that replace manual workflows.
 
-### Databases
+I operate across product, engineering, and delivery — owning projects end-to-end:
+
+- Engage directly with clients to analyze operational processes
+- Translate business requirements into technical architecture
+- Define scope, roadmap, and delivery priorities
+- Architect and implement automation infrastructure
+- Manage QA cycles and production validation
+- Ship systems that run reliably in real-world environments
+
+> I turn ambiguity into structured, production-grade systems.
+
+## Current Role
+
+**AI Automation PM / Forward Deployed Engineer**
+
+I function as both project lead and systems builder.
+
+### Product & Client Leadership
+
+- Conduct on-site client visits to understand workflows
+- Extract and formalize requirements
+- Define technical scope and project timeline
+- Align cross-team execution
+- Deliver demos and iterate based on feedback
+- Own delivery outcomes
+
+### Engineering & Infrastructure
+
+- Architect and build production automation systems
+- Design scheduled execution and data synchronization pipelines
+- Implement authentication flows and session persistence
+- Monitor, validate, and harden long-running systems
+
+## Technical Stack
+
+### Automation Infrastructure
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### AI-Assisted Development
+
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+Used for structured planning, refactoring, debugging, and structured output workflows.
+
+### Backend & Data
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Deployment & Cloud
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+## How I Operate
+
+- Start from real operational friction
+- Formalize requirements before coding
+- Ship incrementally
+- Validate before scaling
+- Harden systems under real constraints
+- Own delivery, not just implementation
 
 ## Projects
 
-### 🍽️ ReciPICK - 스프링 활용 레시피 기반 식재료 쇼핑몰 (5인 팀 프로젝트 / 팀장)
+### 🔧 OTA Admin Scraper Suite - Production automation infrastructure for multi-channel OTA data (Client)
+
+Multi-platform production-grade automation system covering 7 OTA platforms. Extracts ranking and pricing data, survives structural DOM changes, and operates on daily scheduled execution. _(Private repository)_
+
+### 📊 ECharts AI Studio - LLM-powered prompt-based data visualization dashboard (Personal)
+
+https://github.com/jrkim-kr/echarts-ai-studio
+
+### 🏥 Clinic Waiting System - Real-time patient queue management for clinics (Personal)
+
+https://github.com/jrkim-kr/clinic-waiting-system
+
+### 📅 Reservation System - Full-stack booking platform for small-scale services (Personal)
+
+https://github.com/jrkim-kr/reservation-system
+
+### 🥘 ReciPICK - Recipe-based grocery shopping mall (Team Lead, 5 members)
+
 https://github.com/SHDS-ReciPICK/shds-recipick.github.io
 
-### 🌱 SOL Pick - 스프링 부트 활용 스마트한 식생활 관리 서비스 (4인 팀 프로젝트 / 팀장)
+### 💳 SOL Pick - Smart dietary management service (Team Lead, 4 members)
+
 https://github.com/SHDS-SOLPick/shds-solpick.github.io
 
-## Currently Learning
-- Vibe Coding
+## What I'm Exploring
+
+- Scalable scraping architecture
+- DOM change detection strategies
+- Server-side automation execution
+- LLM → structured JSON → API pipelines
+- Productizing automation for non-technical users
 
 ## Contact
-- **Email**: jeongrankim99@gmail.com
-- **velog**: https://velog.io/@jrkim99/posts
+
+[![Email](https://img.shields.io/badge/Email-jeongrankim99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeongrankim99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jrkim--kr-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrkim-kr)
+[![Blog](https://img.shields.io/badge/Blog-velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jrkim99/posts)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrkim-kr&show_icons=true&theme=radical)
 
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jrkim-kr?theme=radical)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrkim-kr&theme=radical)](https://git.io/streak-stats)
 
 ---
-⭐️ From [Jeongran-Kim](https://github.com/jrkim-kr)
+
+_I build and deliver AI automation systems that operate in production._
