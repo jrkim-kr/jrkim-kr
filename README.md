@@ -1,6 +1,6 @@
 # Jeongran Kim
 
-**AI Automation PM | Forward Deployed Engineer | AI Systems & Delivery Lead**
+**AI Automation PM | Forward Deployed Engineer**
 
 ## What I Do
 
@@ -69,15 +69,6 @@ Used for structured planning, refactoring, debugging, and structured output work
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-## How I Operate
-
-- Start from real operational friction
-- Formalize requirements before coding
-- Ship incrementally
-- Validate before scaling
-- Harden systems under real constraints
-- Own delivery, not just implementation
 
 ## Projects
 
