@@ -78,29 +78,34 @@ Used for structured planning, refactoring, debugging, and structured output work
 
 ## Projects
 
-### 🔧 OTA Admin Scraper Suite - Production automation infrastructure for multi-channel OTA data (Client)
+### 🔧 OTA Admin Scraper Suite - Production automation infrastructure for multi-channel OTA data (Client / Private repository )
 
-Multi-platform production-grade automation system covering 7 OTA platforms. Extracts ranking and pricing data, survives structural DOM changes, and operates on daily scheduled execution. _(Private repository)_
+- Multi-platform production-grade automation system covering 7 OTA platforms. 
+- Extracts ranking, funnel metrics and pricing data, etc.
+- Survives structural DOM changes, and operates on daily scheduled execution. 
 
-### 📊 ECharts AI Studio - LLM-powered prompt-based data visualization dashboard (Personal)
+### 📅 Reservation System - Full-stack booking platform for small-scale services (Client / Private repository )
 
-https://github.com/jrkim-kr/echarts-ai-studio
+- Full Reservation Lifecycle: A complete workflow from booking request and admin approval to payment confirmation and cancellation.
+- Config-Based Branding: Easily customize store info, payment details, and UI text through the admin dashboard without code changes.
+- External Integrations: Automated synchronization with Google Calendar/Sheets and Kakao AlimTalk (with SMS fallback).
+- Real-time Sync: Instant updates on seat availability and booking status powered by Supabase Realtime.
 
-### 🏥 Clinic Waiting System - Real-time patient queue management for clinics (Personal)
+### 🏥 Clinic Waiting System - Real-time patient queue management for clinics (Client)
 
 https://github.com/jrkim-kr/clinic-waiting-system
 
-### 📅 Reservation System - Full-stack booking platform for small-scale services (Personal)
+### 📊 ECharts AI Studio - LLM-powered prompt-based data visualization dashboard (Client)
 
-https://github.com/jrkim-kr/reservation-system
-
-### 🥘 ReciPICK - Recipe-based grocery shopping mall (Team Lead, 5 members)
-
-https://github.com/SHDS-ReciPICK/shds-recipick.github.io
+https://github.com/jrkim-kr/echarts-ai-studio
 
 ### 💳 SOL Pick - Smart dietary management service (Team Lead, 4 members)
 
 https://github.com/SHDS-SOLPick/shds-solpick.github.io
+
+### 🥘 ReciPICK - Recipe-based grocery shopping mall (Team Lead, 5 members)
+
+https://github.com/SHDS-ReciPICK/shds-recipick.github.io
 
 ## What I'm Exploring
 
