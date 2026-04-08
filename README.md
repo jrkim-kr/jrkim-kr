@@ -2,7 +2,7 @@
 
 # Jeongran Kim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=false&height=90&width=600&lines=AI+Automation+PM;Forward+Deployed+Engineer;Ambiguity+in.+Systems+out.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=false&height=90&width=600&lines=Forward+Deployed+Engineer;AI+Native+Project+Manager;Ambiguity+in.+Systems+out.)](https://git.io/typing-svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jrkim-kr.jrkim-kr)
 
@@ -25,7 +25,7 @@ I operate across product, engineering, and delivery — owning projects end-to-e
 
 ## Current Role
 
-**AI Automation PM / Forward Deployed Engineer**
+**Forward Deployed Engineer / AI Native Project Manager**
 
 I function as both project lead and systems builder.
 
